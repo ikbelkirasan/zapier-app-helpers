@@ -1,0 +1,10 @@
+{
+  "name": "@ikbelkirasan/zapier-app-helpers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "ikbel <info@norapps.net>",
+  "peerDependencies": {
+    "zapier-platform-core": "^9.2.0"
+  }
+}
